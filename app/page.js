@@ -122,7 +122,7 @@ export default function Home() {
           <Reveal><p className="mono">04 / contact.me</p><h2>¿Tienes una idea?<br /><span>Construyámosla.</span></h2><p>Estoy abierto a oportunidades junior, prácticas y proyectos colaborativos.</p><div className="contact__actions"><a className="button button--light" href="mailto:ramosimananderson@gmail.com"><Mail size={18} /> Escribirme</a><a href="https://www.linkedin.com/in/anderson-ramos-iman/" target="_blank">LinkedIn <ArrowUpRight size={15} /></a><a href="https://github.com/Anderson-Ramos-Iman" target="_blank">GitHub <ArrowUpRight size={15} /></a></div></Reveal>
         </section>
       </main>
-      <footer><span>© 2026 Anderson Ramos</span><span>Diseñado y desarrollado con Next.js</span><span>Lima, Perú</span></footer>
+      <footer><span>© 2026 Anderson Ramos</span><span>Diseño y Desarrollo de Software</span><span>Lima, Perú</span></footer>
     </>
   );
 }
